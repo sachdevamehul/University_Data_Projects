@@ -1,3 +1,50 @@
-Part of our BAN module, we were tasked to extract, clean and apply public data, using python capabilities to create a regression score based analysis for a case study solving a realistic problem for the company in the Los Angeles region of California, USA.
+# Airbnb Pricing Consultation Project
 
-As AirBnb consultants we help sellers define their listing price. 
+![Los Angeles, California](https://img.shields.io/badge/Los%20Angeles%2C%20CA-Data%20Analysis-brightgreen)
+
+Welcome to the Airbnb Pricing Consultation Project, a data-driven approach to help Airbnb hosts in the Los Angeles region optimize their listing prices. In this repository, we utilize Python's powerful capabilities and regression analysis to solve real-world problems for our clients.
+
+## Project Overview
+
+### Objective
+As Airbnb consultants, we understand the importance of setting the right price for your property. Inaccurate pricing can lead to missed opportunities or revenue loss. Our goal is to provide data-backed insights to help hosts maximize their earnings.
+
+### Key Features
+- Data Extraction: We collect publicly available data from Airbnb listings in the Los Angeles region.
+- Data Cleaning: We meticulously clean and preprocess the data to ensure accuracy and reliability.
+- Regression Analysis: We employ regression models to predict optimal pricing based on various factors such as location, property type, amenities, and historical booking data.
+- Score-Based Analysis: We calculate regression scores to quantify the accuracy of our pricing recommendations.
+
+## Getting Started
+
+### Prerequisites
+- Python
+- Jupyter Notebook (for running the analysis)
+- Required Python libraries (provided in requirements.txt)
+
+### Installation
+1. Clone this repository.
+2. Install the required Python libraries using `pip install -r requirements.txt`.
+3. Open the Jupyter Notebook and follow the step-by-step analysis.
+
+## Data Sources
+
+Our analysis is based on publicly available Airbnb data and external datasets relevant to the Los Angeles region.
+
+## Usage
+
+The Jupyter Notebook(s) in this repository provide a detailed walkthrough of our data extraction, cleaning, and regression analysis. Hosts and Airbnb professionals can use this analysis to make informed pricing decisions.
+
+## Contributing
+
+If you'd like to contribute to this project, please open an issue or submit a pull request. We welcome collaboration from fellow data enthusiasts, Airbnb hosts, and consultants.
+
+## License
+
+This project is licensed under Hult International Business School's course confidentiality.
+
+## Contact
+
+For questions or further information, feel free to contact Mehul Sachdeva at mehul.sachdeva04@gmail.com
+
+Happy hosting and happy reading!
